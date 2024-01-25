@@ -38,7 +38,6 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanebsg&theme=ocean_dark&show_icons=true" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luane-barcellos-474bb2203/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jobs.luabarcellos@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
