@@ -18,7 +18,7 @@
   Hi 👋, I'm Luane Barcellos! A passionate Software Engineering Student from Brazil.
 
   - 🔭 I am looking for my first Internship opportunity. My dream is to one day work with Game Development, but first I'd love to discover this huge world of options in Software Engineering.
-  - ⚙️Regarding that, I also would like to say that I do have experience with TP, MySQL, C, Web3 and blockchain but it's not commited here. 
+  - ⚙️Regarding that, I also would like to say that I do have experience with TP, MySQL, C and Web3 but it's not commited here. 
 </p>
 <p align="center">
  👨‍💻 More about me
