@@ -35,7 +35,7 @@
  
   - 📖 I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies, playing games and drawing! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
   - ⚡ Fun fact: I was an actress and a model once
-  - 📫 How to reach me: jobs.luabarcellos@gmail.com
+  - 📫 How to reach me: luanebsg@gmail.com
   - 😄 Pronouns: Her/She
 </p>
 
